@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/homework/bin/Debug/net7.0/homework
+/Users/macbook/Desktop/homework/bin/Debug/net7.0/homework.deps.json
+/Users/macbook/Desktop/homework/bin/Debug/net7.0/homework.runtimeconfig.json
+/Users/macbook/Desktop/homework/bin/Debug/net7.0/homework.dll
+/Users/macbook/Desktop/homework/bin/Debug/net7.0/homework.pdb
+/Users/macbook/Desktop/homework/obj/Debug/net7.0/homework.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/homework/obj/Debug/net7.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/homework/obj/Debug/net7.0/homework.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/homework/obj/Debug/net7.0/homework.AssemblyInfo.cs
+/Users/macbook/Desktop/homework/obj/Debug/net7.0/homework.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/homework/obj/Debug/net7.0/homework.dll
+/Users/macbook/Desktop/homework/obj/Debug/net7.0/refint/homework.dll
+/Users/macbook/Desktop/homework/obj/Debug/net7.0/homework.pdb
+/Users/macbook/Desktop/homework/obj/Debug/net7.0/homework.genruntimeconfig.cache
+/Users/macbook/Desktop/homework/obj/Debug/net7.0/ref/homework.dll
