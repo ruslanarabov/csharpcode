@@ -15,37 +15,37 @@
 
 // #endregion 
 
-#region homework2
+// #region homework2
 
-Console.WriteLine("Ededi qeyd edin:");
-int eded = int.Parse(Console.ReadLine());
-if (eded <= 1)
-{
-    Console.WriteLine("Eded ne sade ne de murekkebdir!");
-}
-else if (eded <= 2)
-{
-    Console.WriteLine("Eded sade ededdir!");
-}
-else
-{
-    int regem = 2;
-    bool prime = true;
+// Console.WriteLine("Ededi qeyd edin:");
+// int eded = int.Parse(Console.ReadLine());
+// if (eded <= 1)
+// {
+//     Console.WriteLine("Eded ne sade ne de murekkebdir!");
+// }
+// else if (eded <= 2)
+// {
+//     Console.WriteLine("Eded sade ededdir!");
+// }
+// else
+// {
+//     int regem = 2;
+//     bool prime = true;
 
-    do 
-    {
-        if (eded % regem == 0)
-        {
-            prime = false;
-            break;
-        }
-        regem++;
+//     do 
+//     {
+//         if (eded % regem == 0)
+//         {
+//             prime = false;
+//             break;
+//         }
+//         regem++;
 
-    } while (regem * regem <= eded);
-    if (prime)
-        Console.WriteLine($"{eded} Sade ededdir!");
-    else
-        Console.WriteLine($"{eded}  Murekkeb ededdir!");
-}
+//     } while (regem * regem <= eded);
+//     if (prime)
+//         Console.WriteLine($"{eded} Sade ededdir!");
+//     else
+//         Console.WriteLine($"{eded}  Murekkeb ededdir!");
+// }
     
-#endregion
+// #endregion
